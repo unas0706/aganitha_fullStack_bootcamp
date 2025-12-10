@@ -1,3 +1,31 @@
+# notes.md
+
+## Notes — Git & GitHub Setup
+
+### GitHub Setup
+
+* Created account
+* Professional username
+* Added profile details
+
+### SSH Key Setup
+
+* Generated SSH key using `ssh-keygen`
+* Added public key to GitHub
+* Verified connection with `ssh -T git@github.com`
+
+### Git Config
+
+* Set username and email
+* Set default branch to main
+
+### Repository Initialization
+
+* Ensured correct folder structure
+* Added notes.md, workflow.md, experiment-01.txt
+
+
+
 ## 8. Binary File Awareness
 
 I should avoid committing large binary files into Git such as:

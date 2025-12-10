@@ -1,0 +1,35 @@
+This is a test file for checking Git commits and pushes.
+I will use this file to practice git add, commit, push, and pull.
+
+##  Viewing History and Diffs
+
+### git log
+
+Shows the commit history in reverse chronological order.
+
+```
+git log
+```
+
+Observation: Helps track what changed, who changed it, and when.
+
+### git diff
+
+Shows differences between working directory, staged changes, or commits.
+
+```
+git diff
+```
+
+Observation: Useful before committing to verify exactly what you modified.
+
+### git show
+
+Displays details about a specific commit.
+
+```
+git show <commit-id>
+```
+
+Observation: Combines diff + metadata to understand a single commit clearly.
+
