@@ -1,0 +1,3 @@
+id,name,email,roles,active
+usr_001,Alex Chen,alex@example.com,"developer|mentor",true
+usr_002,Sam Rivera,sam@example.com,designer,false
