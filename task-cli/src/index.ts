@@ -78,10 +78,10 @@ async function sychronization() {
     saved.tasks.forEach((t) => manager.add(t));
   }
 
-  manager.add({ title: "Fifth Task", priority: "medium", completed: false });
+  manager.add({ title: "Fifth Task", priority: "medium", completed: true });
 
   await sync.save(manager.export());
-  // console.log("Final tasks:", manager.export());
+  console.log("Final tasks:", manager.export());
 }
 
 sychronization();

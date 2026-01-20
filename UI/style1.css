@@ -1,0 +1,107 @@
+:root {
+  --bg: #ffffff;
+  --surface: #f6f7f9;
+  --text: #111;
+  --accent: #3056d3;
+
+  --font-text: "Inter", system-ui, sans-serif;
+  --font-heading: "Merriweather", serif;
+
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 2rem;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-text);
+  line-height: 1.65;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-areas:
+    "header header header"
+    ". main ."
+    "footer footer footer";
+  min-height: 100vh;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: var(--bg);
+  z-index: 1;
+  grid-area: header;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--space-1);
+}
+#logo {
+  font-size: 1.2rem;
+}
+nav {
+  width: 20%;
+  grid-area: nav;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  height: 5vh;
+}
+a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+#search {
+  margin: 0 5%;
+  padding: 5px;
+  width: 20%;
+  border: none;
+  outline: none;
+  height: 100%;
+}
+
+main {
+  grid-area: main;
+  margin: auto;
+}
+
+aside {
+  grid-area: aside;
+  padding: var(--space-2);
+  background: var(--surface);
+}
+
+footer {
+  border-top: 1px solid #111;
+  grid-area: footer;
+  padding: var(--space-2);
+  text-align: center;
+}
+#footer-div {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: auto;
+}
+
+h1 {
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 3vw + 1rem, 3.2rem);
+}
+
+h2 {
+  font-family: var(--font-heading);
+}
+
+p {
+  font-size: clamp(1rem, 1.2vw + 0.75rem, 1.2rem);
+  max-width: 65ch;
+}

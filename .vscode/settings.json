@@ -5,5 +5,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
   "github.copilot.nextEditSuggestions.enabled": false,
-  "github.copilot.nextEditSuggestions.fixes": false
+  "github.copilot.nextEditSuggestions.fixes": false,
+  "postman.settings.dotenv-detection-notification-visibility": false
 }

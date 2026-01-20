@@ -1,0 +1,1088 @@
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+This is a sample text file for demonstrating Node.js readable streams.
+Streams are useful for handling large files without loading the entire content into memory.
+They process data in chunks, which is more efficient for large datasets.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Stream 1:
+The quick brown fox jumps over the lazy dog.
+Stream 2:
+The five boxing wizards jump quickly.
+Stream 3:
+Pack my box with five dozen liquor jugs.
+
+This content will be read in chunks by the readable stream.
+Each chunk will be processed separately, demonstrating efficient memory usage.
+This pattern is essential when working with large files or network data.
+
+Repeat content to increase file size for better stream demonstration:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.

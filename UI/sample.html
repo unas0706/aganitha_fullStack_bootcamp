@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="UX Practice - Semantic HTML and Accessible Design"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+      rel="stylesheet"
+    />
+
+    <title>UX Practice</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav aria-label="Primary" id="head-nav">
+      <ul class="nav-list">
+        <li>
+          <a href="#" class="nav-link">
+            <span class="material-symbols-outlined" aria-hidden="true">
+              home
+            </span>
+            <span class="nav-text">Home</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">
+            <span class="material-symbols-outlined" aria-hidden="true">
+              search
+            </span>
+            <span class="nav-text">Search</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">
+            <span class="material-symbols-outlined" aria-hidden="true">
+              settings
+            </span>
+            <span class="nav-text">Settings</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="layout">
+      <header class="hero">
+        <h1>UX Practice</h1>
+        <button id="theme">Toggle theme</button>
+      </header>
+
+      <nav aria-label="Primary">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Articles</a></li>
+          <li><a href="#">Library</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </nav>
+
+      <main class="main">
+        <article>
+          <h2>Start Here</h2>
+          <p>
+            Good UX is built on structure, readability, and meaningful content.
+            This page demonstrates correct semantic HTML usage for modern
+            interfaces.
+          </p>
+
+          <img
+            src="https://picsum.photos/800/400"
+            alt="Random scenic photograph used as a visual placeholder for design practice"
+          />
+        </article>
+
+        <aside>
+          <h3>Recommended Reading</h3>
+          <ul>
+            <li>Atomic Design</li>
+            <li>Refactoring UI</li>
+            <li>Don't Make Me Think</li>
+            <li>The Design of Everyday Things</li>
+          </ul>
+        </aside>
+
+        <section>
+          <h3>Favorite Movies</h3>
+          <ol>
+            <li>Inception</li>
+            <li>The Social Network</li>
+            <li>Interstellar</li>
+            <li>The Matrix</li>
+          </ol>
+        </section>
+
+        <section>
+          <h3>Book Library</h3>
+          <ul>
+            <li>Clean Code</li>
+            <li>Deep Work</li>
+            <li>The Pragmatic Programmer</li>
+            <li>You Don't Know JS</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Learning Progress</h3>
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Topic</th>
+                <th scope="col">Status</th>
+                <th scope="col">Priority</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">HTML Semantics</th>
+                <td>Completed</td>
+                <td>High</td>
+              </tr>
+              <tr>
+                <th scope="row">CSS Layout</th>
+                <td>In Progress</td>
+                <td>High</td>
+              </tr>
+              <tr>
+                <th scope="row">Accessibility</th>
+                <td>Planned</td>
+                <td>Medium</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+
+        <section>
+          <h3>Font Weight Demonstration</h3>
+
+          <p class="weight-400">Weight 400 — Regular</p>
+          <p class="weight-600">Weight 600 — Semi Bold</p>
+          <p class="weight-800">Weight 800 — Extra Bold</p>
+
+          <pre><code>console.log("Monospace code sample");</code></pre>
+        </section>
+
+        <h2>Icon Implementation Options</h2>
+
+        <section class="icon-grid">
+          <span class="icon material-symbols-outlined"> home </span>
+
+          <span class="icon material-symbols-outlined"> search </span>
+
+          <span class="icon material-symbols-outlined"> settings </span>
+
+          <svg
+            class="icon icon-svg"
+            viewBox="0 0 24 24"
+            role="img"
+            aria-label="User profile"
+          >
+            <path
+              d="M12 12c2.761 0 5-2.239 5-5s-2.239-5-5-5-5 2.239-5 5 2.239 5 5 5Z"
+            />
+            <path d="M4 20c0-4 4-6 8-6s8 2 8 6" fill="none" stroke-width="2" />
+          </svg>
+
+          <span class="icon material-symbols-outlined"> favorite </span>
+
+          <span class="icon material-symbols-outlined"> notifications </span>
+        </section>
+
+        <h2>Image Formats & Optimization</h2>
+
+        <section class="image-card">
+          <h2>Photo — JPG</h2>
+          <img
+            src="https://fastly.picsum.photos/id/132/1200/800.jpg?hmac=ZwdtGgqnh8PsabjVtiIttvT3krjXJucB4lOwXdRp23k"
+            alt="Random landscape photograph"
+            loading="lazy"
+          />
+          <p class="caption">Optimized JPEG (compressed via Squoosh)</p>
+        </section>
+
+        <section class="image-card">
+          <h2>Graphic — PNG (Transparent)</h2>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/512px-Commons-logo.svg.png"
+            alt="Transparent UI graphic"
+            loading="lazy"
+          />
+          <p class="caption">PNG with transparency preserved</p>
+        </section>
+
+        <section class="image-card">
+          <h2>Vector — SVG Logo</h2>
+          <img
+            src="https://placehold.co/200x80/3056d3/ffffff?text=LOGO.svg"
+            alt="Sample SVG logo"
+            loading="lazy"
+          />
+          <p class="caption">Resolution-independent SVG</p>
+        </section>
+      </main>
+
+      <footer>© You</footer>
+    </div>
+
+    <script>
+      const r = document.documentElement;
+      document.getElementById("theme").onclick = () => {
+        r.dataset.theme = r.dataset.theme === "dark" ? "" : "dark";
+        localStorage.setItem("theme", r.dataset.theme || "light");
+      };
+      r.dataset.theme = localStorage.getItem("theme") === "dark" ? "dark" : "";
+    </script>
+  </body>
+</html>

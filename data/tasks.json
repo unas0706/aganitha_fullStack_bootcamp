@@ -1,0 +1,83 @@
+{
+  "tasks": [
+    {
+      "id": "ybm0pkgk",
+      "title": "Sample Task",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2026-01-18T10:47:44.528Z"
+    },
+    {
+      "id": "doaulh6u",
+      "title": "Another Task",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "2026-01-18T10:47:44.528Z"
+    },
+    {
+      "id": "qveuiz9l",
+      "title": "Third Task",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-01-18T10:47:44.528Z"
+    },
+    {
+      "id": "00e358oz",
+      "title": "Sample Task",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2026-01-18T10:47:44.531Z"
+    },
+    {
+      "id": "9p9pj8fo",
+      "title": "Another Task",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "2026-01-18T10:47:44.532Z"
+    },
+    {
+      "id": "y8h0omae",
+      "title": "Third Task",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-01-18T10:47:44.532Z"
+    },
+    {
+      "id": "zoxla4je",
+      "title": "Fifth Task",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-01-18T10:47:44.532Z"
+    },
+    {
+      "id": "bxp8ryz2",
+      "title": "Fifth Task",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-01-18T10:47:44.532Z"
+    },
+    {
+      "id": "92b91f1d-c0a1-48c9-baba-860920673008",
+      "title": "Updated task title",
+      "description": "Updated description",
+      "completed": true,
+      "priority": "high",
+      "createdAt": "2026-01-18T12:38:11.940Z",
+      "updatedAt": "2026-01-18T12:44:35.419Z"
+    },
+    {
+      "id": "ec461deb-66ad-4cbb-8483-4ddffe1bcb1a",
+      "title": "Complete project documentation",
+      "description": "Write comprehensive documentation for the task management system",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2026-01-18T12:38:50.064Z",
+      "updatedAt": "2026-01-18T12:38:50.064Z"
+    }
+  ],
+  "metadata": {
+    "total": 8,
+    "completed": 0,
+    "lastModified": "2026-01-18T10:47:44.533Z"
+  }
+}

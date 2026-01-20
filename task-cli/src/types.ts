@@ -5,6 +5,8 @@ export interface Task {
   completed: boolean;
   priority: "low" | "medium" | "high";
   createdAt: Date;
+  updatedAt?: string | Date;
+  description?: string;
 }
 
 export type TaskStatus = "pending" | "in-progress" | "completed";
